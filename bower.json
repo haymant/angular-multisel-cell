@@ -1,0 +1,34 @@
+{
+  "name": "angular-multisel-cell",
+  "main": "MultiSelCell.js",
+  "version": "0.0.0",
+  "authors": [
+    "Lee",
+    "Haymant <haymantlee@gmail.com>"
+  ],
+  "description": "MultiSelCell",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "Multiple",
+    "selection",
+    "dropdown",
+    "list",
+    "for",
+    "ui-grid",
+    "cell"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/haymant/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.15"
+  }
+}
